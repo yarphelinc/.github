@@ -1,25 +1,41 @@
-# Yarphel
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/yarphel-mark-white.svg">
+    <img src="assets/yarphel-mark.svg" alt="Yarphel" width="72">
+  </picture>
+</p>
 
-**GST billing, stock and credit for businesses in Bhutan, on a phone.**
+<h1 align="center">Yarphel</h1>
 
-Yarphel helps the businesses that keep Bhutan running, from groceries, restaurants and hotels to pharmacies, hardware stores and wholesalers, run their counter without notebooks or guesswork.
+<p align="center">
+  Software for the businesses of Bhutan.
+  <br>
+  <a href="https://yarphel.com">Website</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hello@yarphel.com">hello@yarphel.com</a>
+</p>
 
-### Yarphel Business
+<br>
 
-- **Bill in seconds:** scan or tap products, and every invoice is GST-ready.
-- **Know your stock:** receive deliveries, count shelves, and get alerts before items run out or expire.
-- **Credit without the notebook:** see who owes what, and since when.
-- **See your profit:** daily summaries, sales and margin reports, and GST figures ready for filing.
-- **Work as a team:** owners, managers and staff, each with the right access.
-- **Works offline:** keep selling when the network drops, and it syncs when you're back.
-- **Shared Bhutan catalog:** pick from over a thousand common products instead of typing each one.
+Most businesses in Bhutan still run on handwritten bills, credit notebooks and memory. Yarphel replaces them with simple tools that work on the phone the owner already has, in places where the network isn't always there.
 
-Available in English, with Dzongkha on the way.
+## What we build
 
-### Links
+**[Yarphel Business](https://yarphel.com)** is the counter app for groceries, restaurants, hotels, pharmacies, hardware stores and wholesalers.
 
-- Website: [yarphel.com](https://yarphel.com)
+- GST-ready invoices and returns, by barcode scan or tap
+- Stock, deliveries and counts, with alerts before items run out or expire
+- Customer credit, so it's always clear who owes what
+- Daily summaries, margins and GST reports
+- Owners, managers and staff, each with their own access
+- Keeps working offline and syncs when the connection is back
 
----
+**Yarphel** is our app for shoppers to find what's in stock at businesses nearby. It is in development.
 
-<sub>Made in Bhutan 🇧🇹</sub>
+## How we work
+
+We build for real counters in Bhutan: Ngultrum and Bhutan's GST, local products in a shared catalog, and Dzongkha alongside English. We keep the apps fast on modest phones and careful with the data businesses trust us with.
+
+## Contact
+
+For partnerships, pilots or support, write to [hello@yarphel.com](mailto:hello@yarphel.com).
